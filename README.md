@@ -90,4 +90,6 @@
     <br>
     使用前记得将templates 目录下的index.html 中 mjpg_streamer 的ip改成你的树莓派地址
   
-###  加载中。。。。。。。。。
+###  SHOW
+<img src="https://github.com/greenbamboos/RaspberryPi_NERV_Carb/master/show/1869963897.jpg" width="600" alt="小车照片"/>
+
